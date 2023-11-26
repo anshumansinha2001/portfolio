@@ -337,7 +337,7 @@ section {
 }
 
 article {
-    /* margin-right: 3.5rem; */
+    margin-right: 3.5rem;
     display: flex;
     width: 10rem;
     gap: 1rem;
