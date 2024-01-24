@@ -353,6 +353,11 @@ article .icon {
 
 /* PROJECTS SECTION */
 
+#twitter {
+    height: 37vh;
+    margin: 0 !important;
+}
+
 #projects {
     position: relative;
 }
