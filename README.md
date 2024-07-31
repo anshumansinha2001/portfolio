@@ -1,3 +1,3 @@
 # LIVE:- 
-**[anshumansinha-portfolio](https://anshumansinha-portfolio.netlify.app)**
+**[anshumansinha-portfolio](https://anshumansinha.netlify.app)**
 ![banner](Banner.png)
