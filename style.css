@@ -45,6 +45,11 @@ nav {
     font-size: 1.5rem;
 }
 
+#note {
+    font-size: 0.69rem;
+    margin-top: 10px;
+}
+
 a {
     text-decoration: none;
     color: black;
